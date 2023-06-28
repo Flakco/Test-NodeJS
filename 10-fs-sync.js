@@ -9,5 +9,7 @@ console.log(content,'\n',Lorem)
 
 fs.writeFileSync('./MainFolder/SubFolder/new-text.txt', 'Hello world')
 
+console.log('Done with this task')
+console.log('Starting the next one')
 
 
